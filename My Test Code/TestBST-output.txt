@@ -1,0 +1,44 @@
+Insert
+************
+(true, 0)
+(false, 1)
+(true, 1)
+(true, 2)
+(true, 1)
+(false, 2)
+(true, 2)
+(true, 2)
+(true, 2)
+(true, 3)
+(true, 4)
+getAll
+************
+11, 12, 13, 15, 17, 20, 30, 35, 41
+find
+************
+(true, 2)
+(false, 4)
+remove1
+************
+(true, 3)
+(true, 2)
+(true, 1)
+(false, 2)
+(true, 2)
+(true, 2)
+getAll
+************
+12, 13, 17, 35
+remove2
+************
+(true, 2)
+(true, 2)
+(true, 1)
+(true, 1)
+(false, 0)
+(false, 0)
+(false, 0)
+(false, 0)
+getAll
+************
+[empty]
