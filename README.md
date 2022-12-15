@@ -1,13 +1,13 @@
 # Data-structures-and-algorithms-Project
 
-1 Introduction:
+## 1 Introduction:
 
 Vehicle hiring companies such as Uber, Careem, and Jeeny rely on fast localization of available vehicles near potential
 customers. Such efficient localization requires specialized data structures, and the goal of this project is to implement
 and use one such data structure.
 
 
-2 Storing vehicles locations:
+## 2 Storing vehicles locations:
 
 Vehicles and customers are localized using GPS devices available in mobile phones, and these devices determine
 the longitude and latitude coordinates as floating-point numbers. To simplify the task, however, we will divide the
@@ -17,7 +17,7 @@ geographical area under consideration into small cells and use integers to ident
 
 
 
-Tree 
+## Tree 
 
 ![Untitled](https://user-images.githubusercontent.com/65503195/207813761-d555aafe-f977-4c66-9838-6936e09d5367.png)
 
